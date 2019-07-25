@@ -1,0 +1,21 @@
+*.ipynb_checkpoints
+
+
+*.coverage
+
+*.hdf5
+
+dataset/
+notebooks/
+
+__pycache__
+*.pyc
+
+# Examples datasets
+examples/*/*.jpg
+
+# Ground Pictures
+ground_pics/*
+!ground_pics/g0.jpg
+!ground_pics/g1.jpg
+!ground_pics/g2.jpg
