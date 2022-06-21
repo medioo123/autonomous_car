@@ -11,7 +11,7 @@ setup(name='roadsimulator',
       install_requires=[
           'Pillow==5.1.0',
           'tqdm==4.23.2',
-          'numpy==1.14.2'
+          'numpy==1.22.0'
       ],
       extras_require={
           'tests': ['nose==1.3.7'],
