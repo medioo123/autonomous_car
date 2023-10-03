@@ -9,7 +9,7 @@ setup(name='roadsimulator',
       author_email='vincenthoulbreque+ironcar@gmail.com',
       license='MIT',
       install_requires=[
-          'Pillow==5.1.0',
+          'Pillow==10.0.1',
           'tqdm==4.23.2',
           'numpy==1.14.2'
       ],
